@@ -8,7 +8,7 @@ app.use(bodyParser.urlencoded({ extended  : true }));
 var connection = mysql.createConnection({
 host : 'localhost',
 user : 'root',
-password : '1',
+password : 'lkgukg',
 database : 'school'
 });
 connection.connect();
